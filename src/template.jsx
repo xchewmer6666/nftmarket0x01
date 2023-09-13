@@ -19,26 +19,26 @@ const discover = [
 
 const trending = [
   {
-    img1: "/assets/crypto/animal1.png",
-    img2: "/assets/crypto/animal2.png",
-    img3: "/assets/crypto/animal3.png",
-    img4: "/assets/crypto/animal4.png",
+    img1: "/crypto/animal1.png",
+    img2: "/crypto/animal2.png",
+    img3: "/crypto/animal3.png",
+    img4: "/crypto/animal4.png",
     title1: "DSGN Animals",
     title2: "MrFox",
   },
   {
-    img1: "/assets/crypto/mushroom1.png",
-    img2: "/assets/crypto/mushroom2.png",
-    img3: "/assets/crypto/mushroom3.png",
-    img4: "/assets/crypto/mushroom4.png",
+    img1: "/crypto/mushroom1.png",
+    img2: "/crypto/mushroom2.png",
+    img3: "/crypto/mushroom3.png",
+    img4: "/crypto/mushroom4.png",
     title1: "Magic Mushrooms",
     title2: "Shroomie",
   },
   {
-    img1: "/assets/crypto/machine1.png",
-    img2: "/assets/crypto/machine2.png",
-    img3: "/assets/crypto/machine3.png",
-    img4: "/assets/crypto/machine4.png",
+    img1: "/crypto/machine1.png",
+    img2: "/crypto/machine2.png",
+    img3: "/crypto/machine3.png",
+    img4: "/crypto/machine4.png",
     title1: "Disco Machines",
     title2: "BeKind2Robots",
   },
@@ -47,73 +47,73 @@ const trending = [
 const creator = [
   {
     id: 1,
-    img: "/assets/crypto/creator1.png",
+    img: "/crypto/creator1.png",
     name: "Keepitreal",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator2.png",
+    img: "/crypto/creator2.png",
     name: "DigiLab",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator3.png",
+    img: "/crypto/creator3.png",
     name: "GravityOne",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator4.png",
+    img: "/crypto/creator4.png",
     name: "Juanie",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator5.png",
+    img: "/crypto/creator5.png",
     name: "BlueWhale",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator6.png",
+    img: "/crypto/creator6.png",
     name: "mr fox",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator7.png",
+    img: "/crypto/creator7.png",
     name: "Shroomie",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator8.png",
+    img: "/crypto/creator8.png",
     name: "robotica",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator9.png",
+    img: "/crypto/creator9.png",
     name: "RustyRobot",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator10.png",
+    img: "/crypto/creator10.png",
     name: "animakid",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator11.png",
+    img: "/crypto/creator11.png",
     name: "Dotgu",
     sale: "34.53 ETH",
   },
   {
     id: 1,
-    img: "/assets/crypto/creator12.png",
+    img: "/crypto/creator12.png",
     name: "Ghiblier",
     sale: "34.53 ETH",
   },
@@ -121,24 +121,24 @@ const creator = [
 
 const nftdata = [
   {
-    img: "/assets/crypto/nft1.png",
-    img1: "/assets/crypto/NftAvatar1.png",
+    img: "/crypto/nft1.png",
+    img1: "/crypto/NftAvatar1.png",
     title1: "Distant Galaxy",
     title2: "MoonDancer",
     price: "1.63 ETH",
     bid: "0.33 wETH",
   },
   {
-    img: "/assets/crypto/nft2.png",
-    img1: "/assets/crypto/NftAvatar2.png",
+    img: "/crypto/nft2.png",
+    img1: "/crypto/NftAvatar2.png",
     title1: "Life On Edena",
     title2: "NebulaKid",
     price: "1.63 ETH",
     bid: "0.33 wETH",
   },
   {
-    img: "/assets/crypto/nft3.png",
-    img1: "/assets/crypto/NftAvatar3.png",
+    img: "/crypto/nft3.png",
+    img1: "/crypto/NftAvatar3.png",
     title1: "AstroFiction",
     title2: "Spaceone",
     price: "1.63 ETH",
@@ -148,60 +148,60 @@ const nftdata = [
 
 const browse = [
   {
-    img: "/assets/crypto/browse1.png",
+    img: "/crypto/browse1.png",
     title: "Art",
-    icon: "/assets/crypto/brush.svg",
+    icon: "/crypto/brush.svg",
   },
   {
-    img: "/assets/crypto/browse2.png",
+    img: "/crypto/browse2.png",
     title: "Collectibles",
-    icon: "/assets/crypto/swatches.svg",
+    icon: "/crypto/swatches.svg",
   },
   {
-    img: "/assets/crypto/browse3.png",
+    img: "/crypto/browse3.png",
     title: "Music",
-    icon: "/assets/crypto/music.svg",
+    icon: "/crypto/music.svg",
   },
   {
-    img: "/assets/crypto/browse4.png",
+    img: "/crypto/browse4.png",
     title: "Photography",
-    icon: "/assets/crypto/photography.svg",
+    icon: "/crypto/photography.svg",
   },
   {
-    img: "/assets/crypto/browse5.png",
+    img: "/crypto/browse5.png",
     title: "Video",
-    icon: "/assets/crypto/video.svg",
+    icon: "/crypto/video.svg",
   },
   {
-    img: "/assets/crypto/browse6.png",
+    img: "/crypto/browse6.png",
     title: "Utility",
-    icon: "/assets/crypto/utility.svg",
+    icon: "/crypto/utility.svg",
   },
   {
-    img: "/assets/crypto/browse7.png",
+    img: "/crypto/browse7.png",
     title: "Sport",
-    icon: "/assets/crypto/sport.svg",
+    icon: "/crypto/sport.svg",
   },
   {
-    img: "/assets/crypto/browse8.png",
+    img: "/crypto/browse8.png",
     title: "Virtual Worlds",
-    icon: "/assets/crypto/world.svg",
+    icon: "/crypto/world.svg",
   },
 ];
 
 const howwoks = [
   {
-    img: "/assets/crypto/workicon1.png",
+    img: "/crypto/workicon1.png",
     title: "Setup Your wallet",
     desc: "Set up your wallet of choice. Connect it to the Animarket by clicking the wallet icon in the top right corner.",
   },
   {
-    img: "/assets/crypto/workicon2.png",
+    img: "/crypto/workicon2.png",
     title: "Create Collection",
     desc: "Upload your work and setup your collection. Add a description, social links and floor price.",
   },
   {
-    img: "/assets/crypto/workicon3.png",
+    img: "/crypto/workicon3.png",
     title: "Start Earning",
     desc: "Choose between auctions and fixed-price listings. Start earning by selling your NFTs or trading others.",
   },
@@ -211,22 +211,22 @@ const Navitem = ["Marketplace", "Rankings", "Connect a wallet"];
 
 const socialicon = [
   {
-    icon: "/assets/crypto/discord.svg",
+    icon: "/crypto/discord.svg",
     link: "#_",
     alt: "discord",
   },
   {
-    icon: "/assets/crypto/youtube.svg",
+    icon: "/crypto/youtube.svg",
     link: "#_",
     alt: "youtube",
   },
   {
-    icon: "/assets/crypto/twitter.svg",
+    icon: "/crypto/twitter.svg",
     link: "#_",
     alt: "twitter",
   },
   {
-    icon: "/assets/crypto/instagram.svg",
+    icon: "/crypto/instagram.svg",
     link: "#_",
     alt: "instagram",
   },
@@ -282,7 +282,7 @@ const Crypto = () => {
     <div className="flex flex-col items-center justify-center gap-10 bg-[#2B2B2B] font-worksans lg:gap-20">
       <div className=" flex w-full items-center justify-between gap-5 px-3 py-[15px] md:py-5 lg:px-5 xl:px-12">
         <a href="#_" className="max-w-[200px] lg:max-w-[250px]">
-          <img src={"/assets/crypto/logo.svg"} alt="logo" />
+          <img src={"/crypto/logo.svg"} alt="logo" />
         </a>
         <div className="hidden items-center gap-5 whitespace-nowrap text-base font-semibold capitalize leading-[22px] text-white md:flex lg:gap-[50px]">
           {Navitem.map((navitem, index) => {
@@ -293,7 +293,7 @@ const Crypto = () => {
             );
           })}
           <Button
-            startIcon={<img src={"/assets/crypto/user.svg"} alt="user" />}
+            startIcon={<img src={"/crypto/user.svg"} alt="user" />}
             className="flex justify-center gap-2.5 whitespace-nowrap rounded-[20px] px-5 py-[6px] text-center lg:px-[30px] lg:py-3"
             color="bg-[#A259FF]"
             label="Sign Up"
@@ -303,7 +303,7 @@ const Crypto = () => {
           className="relative cursor-pointer md:hidden"
           onClick={() => setIsNavOpen(!isNavOpen)}
         >
-          <img src={"/assets/crypto/navmenu.svg"} alt="menu" />
+          <img src={"/crypto/navmenu.svg"} alt="menu" />
         </div>
         <div
           className={`absolute ${
@@ -341,9 +341,7 @@ const Crypto = () => {
             <div className="-mt-[10px] text-start text-base font-normal leading-[22px] md:text-base md:leading-[22px]"></div>
             <div className="hidden gap-[30px] sm:flex sm:flex-col">
               <Button
-                startIcon={
-                  <img src={"/assets/crypto/rocket.svg"} alt="rocket" />
-                }
+                startIcon={<img src={"/crypto/rocket.svg"} alt="rocket" />}
                 className="flex max-w-[224px] items-center justify-center gap-[15px] whitespace-nowrap rounded-[20px] py-[15px] lg:py-[19px]"
                 font="font-semibold text-base leading-[22px]"
                 color="bg-[#A259FF]"
@@ -366,17 +364,13 @@ const Crypto = () => {
             </div>
           </div>
           <div className="max-h-[540px] w-full rounded-[20px] text-white md:max-w-[330px] lg:max-w-[510px]">
-            <img
-              src={"/assets/crypto/space.png"}
-              alt="space"
-              className="w-full"
-            />
+            <img src={"/crypto/space.png"} alt="space" className="w-full" />
             <div className="flex h-[109px] flex-col justify-start gap-2.5 rounded-b-[20px] bg-[#3B3B3B] px-5 py-[22px]">
               <div className="flex text-[22px] font-semibold leading-[30px]">
                 Space Walking
               </div>
               <div className="flex items-center gap-3">
-                <img src={"/assets/crypto/man.svg"} alt="ani" />
+                <img src={"/crypto/man.svg"} alt="ani" />
                 <div className="text-base font-normal leading-[22px]">
                   Animakid
                 </div>
@@ -388,7 +382,7 @@ const Crypto = () => {
               href="#_"
               className=" flex max-w-full items-center justify-center gap-[15px] whitespace-nowrap rounded-[20px] bg-[#A259FF] py-[15px] lg:py-[19px]"
             >
-              <img src={"/assets/crypto/rocket.svg"} alt="rocket" />
+              <img src={"/crypto/rocket.svg"} alt="rocket" />
               <button className="text-base font-semibold leading-[22px]">
                 Get Started
               </button>
@@ -474,9 +468,7 @@ const Crypto = () => {
             </div>
             <div className="hidden items-end justify-between sm:flex">
               <Button
-                startIcon={
-                  <img src={"/assets/crypto/rocket.svg"} alt="rocket" />
-                }
+                startIcon={<img src={"/crypto/rocket.svg"} alt="rocket" />}
                 className="flex items-center gap-[15px] rounded-[20px] border-2 border-[#A259FF] px-[30px] py-[13px] lg:px-[50px]"
                 font="font-semibold text-base font-semibold"
                 label="View Rankings"
@@ -514,7 +506,7 @@ const Crypto = () => {
             })}
             <div className="flex w-full items-end justify-between px-[10%] sm:hidden">
               <div className="flex w-full max-w-full items-center justify-center gap-[15px] rounded-[20px] border-2 border-[#A259FF] px-[30px] py-[13px] lg:px-[50px]">
-                <img src={"/assets/crypto/rocket.svg"} alt="ranking" />
+                <img src={"/crypto/rocket.svg"} alt="ranking" />
                 <button className="text-base font-semibold leading-[22px]">
                   View Rankings
                 </button>
@@ -573,9 +565,7 @@ const Crypto = () => {
             </div>
             <div className="hidden items-end justify-end sm:flex">
               <Button
-                startIcon={
-                  <img src={"/assets/crypto/rocket.svg"} alt="rocket" />
-                }
+                startIcon={<img src={"/crypto/rocket.svg"} alt="rocket" />}
                 className="gap-2.5 rounded-[20px] border-2 border-[#A259FF] px-[50px] py-[12px] "
                 font="font-semibold text-base font-semibold"
                 label="See All"
@@ -637,7 +627,7 @@ const Crypto = () => {
       <div className="relative w-full from-transparent to-[#A259FF] bg-cover bg-no-repeat before:absolute before:left-0 before:top-0 before:h-full before:w-full before:bg-gradient-to-b">
         <div className="w-full">
           <img
-            src={"/assets/crypto/nftback.png"}
+            src={"/crypto/nftback.png"}
             alt=""
             className="h-[660px] w-full object-cover object-left-top"
           />
@@ -645,14 +635,14 @@ const Crypto = () => {
         <div className="absolute -bottom-[25%] left-1/2 flex -translate-x-1/2 -translate-y-1/2 flex-col gap-[30px] sm:-bottom-[10%] sm:gap-20 md:flex-row">
           <div className="flex flex-col gap-[30px]">
             <div className="flex max-w-[151px] items-center justify-center gap-2.5 rounded-[20px] bg-[#3B3B3B] py-[10px] text-white">
-              <img src={"/assets/crypto/mushroom4.png"} alt="img" />
+              <img src={"/crypto/mushroom4.png"} alt="img" />
               <button>Shroomie</button>
             </div>
             <div className="max-w-[375px] text-start text-[38px] font-semibold leading-[45px] text-white sm:whitespace-nowrap">
               Magic Mashrooms
             </div>
             <Button
-              startIcon={<img src={"/assets/crypto/eye.svg"} alt="eye" />}
+              startIcon={<img src={"/crypto/eye.svg"} alt="eye" />}
               className="hidden max-w-[198px] items-center justify-center gap-[15px] rounded-[20px] bg-white py-[19px] font-semibold sm:flex "
               font="font-semibold text-base font-semibold text-[#2B2B2B]"
               label="See NFT"
@@ -696,7 +686,7 @@ const Crypto = () => {
             </div>
           </div>
           <div className="flex w-full items-center justify-center gap-[15px] rounded-[20px] bg-white py-[19px] font-semibold text-[#2B2B2B] sm:hidden">
-            <img src={"/assets/crypto/eye.svg"} alt="img" />
+            <img src={"/crypto/eye.svg"} alt="img" />
             <button>See NFT</button>
           </div>
         </div>
@@ -742,11 +732,7 @@ const Crypto = () => {
 
         <div className="flex w-full flex-col items-center justify-center gap-[30px] rounded-[20px] px-[15px] sm:h-[360px] sm:flex-row sm:bg-[#3B3B3B] md:items-center md:px-5 lg:h-[430px] lg:gap-10 lg:px-[10px] xl:gap-20 xl:px-0">
           <div>
-            <img
-              src={"/assets/crypto/weekly.png"}
-              alt="week"
-              className="w-[400px]"
-            />
+            <img src={"/crypto/weekly.png"} alt="week" className="w-[400px]" />
           </div>
           <div className="flex w-full flex-col gap-5 text-start text-white md:max-w-[375px] lg:max-w-[425px] lg:gap-10">
             <div className="flex flex-col gap-2.5">
@@ -769,7 +755,7 @@ const Crypto = () => {
                 href="#"
                 className="flex items-center justify-center gap-[15px] rounded-[20px] bg-[#A259FF] px-[50px] py-[17px] text-base font-semibold leading-[22px]"
               >
-                <img src={"/assets/crypto/email.svg"} alt="email" />
+                <img src={"/crypto/email.svg"} alt="email" />
                 <button className="">Subscribe</button>
               </a>
             </div>
@@ -782,7 +768,7 @@ const Crypto = () => {
               </div>
               <a href="#_">
                 <div className="flex items-center justify-center gap-[15px] rounded-[20px] bg-[#A259FF] px-[50px] py-[12px] text-base font-semibold leading-[22px]">
-                  <img src={"/assets/crypto/email.svg"} alt="subscribe" />
+                  <img src={"/crypto/email.svg"} alt="subscribe" />
                   <button>Subscribe</button>
                 </div>
               </a>
@@ -797,7 +783,7 @@ const Crypto = () => {
             <div className="flex flex-col gap-[25px] text-[#CCCCCC]">
               <a href="#_">
                 <div>
-                  <img src={"/assets/crypto/logo.svg"} alt="img" />
+                  <img src={"/crypto/logo.svg"} alt="img" />
                 </div>
               </a>
               <div className="flex flex-col gap-5">
@@ -860,7 +846,7 @@ const Crypto = () => {
                   </div>
                   <a href="#_">
                     <div className="flex max-w-[290px] items-center justify-center gap-[15px] rounded-[20px] bg-[#A259FF] py-[12px] text-base font-semibold leading-[22px]">
-                      <img src={"/assets/crypto/email.svg"} alt="subscribe" />
+                      <img src={"/crypto/email.svg"} alt="subscribe" />
                       <button className="text-white">Subscribe</button>
                     </div>
                   </a>
